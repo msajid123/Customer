@@ -1,0 +1,63 @@
+Search Filter should customer id, date, customer name , section id
+
+PRODUCTS name should be changed to Requests => like dropdown and options will be
+1. Producct Order => Registered No changed to Order Id and one new col Customer Id, Date remove col Promos|
+
+New data to be shown
+customer details cols will be => customer id, customer name, Phone, City, Address
+product details cols will be => product id, Category, product name, company name, quantity, pricing, aspects, image
+
+2. Maintainence Request
+
+New data to be shown
+customer details cols will be => customer id, customer name, Phone, City, Address
+Maintainence Request details cols will be => request id, Category, product name, company name, aspects, image
+
+3. TECHNICIAN name changed to Repairing Request
+
+New data to be shown
+customer details cols will be => customer id, customer name, Phone, City, Address
+Repairing Request details cols will be => request id, Category, product name, company name, aspects, image
+
+COMPLAINS new cols customer id, product/request id and remove register no
+
+customer details cols will be => customer id, customer name, Phone, City, Address
+Complain details cols will be => request/product id, Category, product name, company name, aspects, comments, image
+
+
+ADD PRODUCTS Type is text not button
+
+In Category dropdown show option
+1. Computer sloution
+2. Mobile sloution
+3. Electrical sloution
+4. Mechinical solution
+
+in Type dropdown show option 
+1. New
+2. Used
+
+Add and show multiple images
+
+
+
+ADD EMPLOYEE 
+
+Search Filter should name, cnic, employee id
+
+Designation will be drop down and otions will worker and technician
+add new col employee id
+
+
+
+ADD PRODUCTS
+Search Filter should Product id, category, product name, company name, quantity
+
+
+status if quantity = 0 then out of stock else empty
+
+
+
+REGISTERED CUSTOMERS
+Search Filter should customer id, full name, recomendation
+add col customer id  remove regiter no and promos
